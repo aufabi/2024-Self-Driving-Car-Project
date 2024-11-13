@@ -1,2 +1,2 @@
-# 2024-Self-Driving-Car-Project
+# Self Driving Car Project - UNet and FCN8s
 In this project, we will train two models, UNet and FCN8s, to predict semantic segmentation. The dataset that we are going to use here is the dataset from Indonesia AI, which is obtained from the cityscapes dataset. This dataset contains images of a car's surroundings, including semantic segmentation. This project aims to compare the results of the two models and conclude which is the best for this study case.
